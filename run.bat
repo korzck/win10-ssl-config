@@ -1,2 +1,2 @@
-Powershell.exe -executionpolicy remotesigned -File ""%~dp0tls.ps1""
+Powershell.exe -executionpolicy remotesigned -File ""%~dp0script.ps1""
 pause
